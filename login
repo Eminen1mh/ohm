@@ -1,4 +1,4 @@
 v
-jack:bat@1337,d6aee309e8dc40528387a0e2bceb48cdcfac3f460bfc8f5cace791a41e97bdb4
+jack:bat@1337,d6aee309e8dc40528387a0e2bceb48cdcfac3f460bfc8f5c
 daniel:lopes1403
 ally:innk41337
